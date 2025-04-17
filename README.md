@@ -21,7 +21,7 @@ L'application exporte également initialement les données triées par puissance
 
 1.  **Prérequis :** Assurez-vous d'avoir le SDK .NET installé (compatible avec la version spécifiée dans `VoituresGrandBolide.csproj`).
 2.  **Cloner le dépôt** (si applicable).
-3.  **Naviguer** vers le répertoire `VoituresGrandBolide` dans votre terminal.
+3.  **Naviguer** vers le répertoire `LinQ_project` dans votre terminal.
 4.  **Restaurer les dépendances :**
     ```bash
     dotnet restore
