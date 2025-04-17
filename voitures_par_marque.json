@@ -1,0 +1,127 @@
+[
+  {
+    "Marque": "Ferrari",
+    "Voitures": [
+      {
+        "Modele": "LaFerrari",
+        "Puissance": 950,
+        "VitesseMax": 352
+      }
+    ]
+  },
+  {
+    "Marque": "Bugatti",
+    "Voitures": [
+      {
+        "Modele": "Chiron",
+        "Puissance": 1500,
+        "VitesseMax": 420
+      }
+    ]
+  },
+  {
+    "Marque": "McLaren",
+    "Voitures": [
+      {
+        "Modele": "P1",
+        "Puissance": 916,
+        "VitesseMax": 350
+      }
+    ]
+  },
+  {
+    "Marque": "Lamborghini",
+    "Voitures": [
+      {
+        "Modele": "Aventador",
+        "Puissance": 690,
+        "VitesseMax": 350
+      }
+    ]
+  },
+  {
+    "Marque": "Mercedes-Benz",
+    "Voitures": [
+      {
+        "Modele": "AMG GT Black Series",
+        "Puissance": 730,
+        "VitesseMax": 325
+      },
+      {
+        "Modele": "AMG GT 63 S E",
+        "Puissance": 831,
+        "VitesseMax": 316
+      }
+    ]
+  },
+  {
+    "Marque": "BMW",
+    "Voitures": [
+      {
+        "Modele": "M5 CS",
+        "Puissance": 635,
+        "VitesseMax": 305
+      },
+      {
+        "Modele": "M8 Competition",
+        "Puissance": 625,
+        "VitesseMax": 305
+      }
+    ]
+  },
+  {
+    "Marque": "Audi",
+    "Voitures": [
+      {
+        "Modele": "RS e-tron GT",
+        "Puissance": 637,
+        "VitesseMax": 250
+      },
+      {
+        "Modele": "RS6 Avant",
+        "Puissance": 621,
+        "VitesseMax": 305
+      }
+    ]
+  },
+  {
+    "Marque": "Porsche",
+    "Voitures": [
+      {
+        "Modele": "911 GT2 RS",
+        "Puissance": 700,
+        "VitesseMax": 340
+      },
+      {
+        "Modele": "Cayenne Turbo GT",
+        "Puissance": 640,
+        "VitesseMax": 300
+      },
+      {
+        "Modele": "Taycan Turbo S",
+        "Puissance": 761,
+        "VitesseMax": 260
+      }
+    ]
+  },
+  {
+    "Marque": "Aston Martin",
+    "Voitures": [
+      {
+        "Modele": "Valkyrie",
+        "Puissance": 1160,
+        "VitesseMax": 400
+      }
+    ]
+  },
+  {
+    "Marque": "Koenigsegg",
+    "Voitures": [
+      {
+        "Modele": "Jesko",
+        "Puissance": 1600,
+        "VitesseMax": 480
+      }
+    ]
+  }
+]

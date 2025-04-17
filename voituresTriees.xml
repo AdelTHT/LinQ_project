@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Voitures>
+  <Voiture>
+    <Marque>Audi</Marque>
+    <Modele>RS6 Avant</Modele>
+    <Puissance>621</Puissance>
+    <VitesseMax>305</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>BMW</Marque>
+    <Modele>M8 Competition</Modele>
+    <Puissance>625</Puissance>
+    <VitesseMax>305</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>BMW</Marque>
+    <Modele>M5 CS</Modele>
+    <Puissance>635</Puissance>
+    <VitesseMax>305</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Audi</Marque>
+    <Modele>RS e-tron GT</Modele>
+    <Puissance>637</Puissance>
+    <VitesseMax>250</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Porsche</Marque>
+    <Modele>Cayenne Turbo GT</Modele>
+    <Puissance>640</Puissance>
+    <VitesseMax>300</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Lamborghini</Marque>
+    <Modele>Aventador</Modele>
+    <Puissance>690</Puissance>
+    <VitesseMax>350</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Porsche</Marque>
+    <Modele>911 GT2 RS</Modele>
+    <Puissance>700</Puissance>
+    <VitesseMax>340</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Mercedes-Benz</Marque>
+    <Modele>AMG GT Black Series</Modele>
+    <Puissance>730</Puissance>
+    <VitesseMax>325</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Porsche</Marque>
+    <Modele>Taycan Turbo S</Modele>
+    <Puissance>761</Puissance>
+    <VitesseMax>260</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Mercedes-Benz</Marque>
+    <Modele>AMG GT 63 S E</Modele>
+    <Puissance>831</Puissance>
+    <VitesseMax>316</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>McLaren</Marque>
+    <Modele>P1</Modele>
+    <Puissance>916</Puissance>
+    <VitesseMax>350</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Ferrari</Marque>
+    <Modele>LaFerrari</Modele>
+    <Puissance>950</Puissance>
+    <VitesseMax>352</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Aston Martin</Marque>
+    <Modele>Valkyrie</Modele>
+    <Puissance>1160</Puissance>
+    <VitesseMax>400</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Bugatti</Marque>
+    <Modele>Chiron</Modele>
+    <Puissance>1500</Puissance>
+    <VitesseMax>420</VitesseMax>
+  </Voiture>
+  <Voiture>
+    <Marque>Koenigsegg</Marque>
+    <Modele>Jesko</Modele>
+    <Puissance>1600</Puissance>
+    <VitesseMax>480</VitesseMax>
+  </Voiture>
+</Voitures>

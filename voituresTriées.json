@@ -1,0 +1,92 @@
+[
+  {
+    "Marque": "Audi",
+    "Modele": "RS6 Avant",
+    "Puissance": 621,
+    "VitesseMax": 305
+  },
+  {
+    "Marque": "BMW",
+    "Modele": "M8 Competition",
+    "Puissance": 625,
+    "VitesseMax": 305
+  },
+  {
+    "Marque": "BMW",
+    "Modele": "M5 CS",
+    "Puissance": 635,
+    "VitesseMax": 305
+  },
+  {
+    "Marque": "Audi",
+    "Modele": "RS e-tron GT",
+    "Puissance": 637,
+    "VitesseMax": 250
+  },
+  {
+    "Marque": "Porsche",
+    "Modele": "Cayenne Turbo GT",
+    "Puissance": 640,
+    "VitesseMax": 300
+  },
+  {
+    "Marque": "Lamborghini",
+    "Modele": "Aventador",
+    "Puissance": 690,
+    "VitesseMax": 350
+  },
+  {
+    "Marque": "Porsche",
+    "Modele": "911 GT2 RS",
+    "Puissance": 700,
+    "VitesseMax": 340
+  },
+  {
+    "Marque": "Mercedes-Benz",
+    "Modele": "AMG GT Black Series",
+    "Puissance": 730,
+    "VitesseMax": 325
+  },
+  {
+    "Marque": "Porsche",
+    "Modele": "Taycan Turbo S",
+    "Puissance": 761,
+    "VitesseMax": 260
+  },
+  {
+    "Marque": "Mercedes-Benz",
+    "Modele": "AMG GT 63 S E",
+    "Puissance": 831,
+    "VitesseMax": 316
+  },
+  {
+    "Marque": "McLaren",
+    "Modele": "P1",
+    "Puissance": 916,
+    "VitesseMax": 350
+  },
+  {
+    "Marque": "Ferrari",
+    "Modele": "LaFerrari",
+    "Puissance": 950,
+    "VitesseMax": 352
+  },
+  {
+    "Marque": "Aston Martin",
+    "Modele": "Valkyrie",
+    "Puissance": 1160,
+    "VitesseMax": 400
+  },
+  {
+    "Marque": "Bugatti",
+    "Modele": "Chiron",
+    "Puissance": 1500,
+    "VitesseMax": 420
+  },
+  {
+    "Marque": "Koenigsegg",
+    "Modele": "Jesko",
+    "Puissance": 1600,
+    "VitesseMax": 480
+  }
+]

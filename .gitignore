@@ -1,0 +1,19 @@
+    # Dossiers de build et dépendances
+    bin/
+    obj/
+
+    # Fichiers spécifiques à Visual Studio/VS Code
+    .vs/
+    *.user
+    *.suo
+
+    # Fichiers spécifiques à Rider
+    .idea/
+
+    # Fichiers de cache et logs
+    *.log
+    *.cache
+
+    # Autres (ajoutez si nécessaire)
+    # Par exemple, si vous avez un fichier de configuration local
+    # local.settings.json
